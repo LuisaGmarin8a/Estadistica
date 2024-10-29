@@ -1,3 +1,5 @@
 scipy                                             
 plotly
 statsmodels
+matplotlib
+seaborn
